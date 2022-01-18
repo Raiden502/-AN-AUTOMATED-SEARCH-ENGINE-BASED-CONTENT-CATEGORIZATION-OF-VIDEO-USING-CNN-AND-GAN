@@ -1,4 +1,4 @@
-# -AN-AUTOMATED-SEARCH-ENGINE-BASED-CONTENT-CATEGORIZATION-OF-VIDEO-USING-CNN-AND-GAN
+# AN-AUTOMATED-SEARCH-ENGINE-BASED-CONTENT-CATEGORIZATION-OF-VIDEO-USING-CNN-AND-GAN
 Search engines play a vital role in a wide array of applications because they assist
 users to quickly discover relevant information. However, as data grows exponentially, existing
 search engines do not have the ability to retrieve specific video results. To improve the user
