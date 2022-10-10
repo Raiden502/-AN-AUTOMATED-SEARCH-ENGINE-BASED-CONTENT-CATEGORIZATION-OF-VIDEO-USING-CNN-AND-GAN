@@ -1,0 +1,29 @@
+.search_bar{
+    width: 60%;
+}
+body{
+    
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+.btn{
+    background-color: white;
+}
+
+.inp{
+    border-radius: 1rem;
+    border: 2px solid black;
+}
+i{
+    color: black;
+}
+.maywork{
+    display: none;
+    width: 0%;
+    height: 0%;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
